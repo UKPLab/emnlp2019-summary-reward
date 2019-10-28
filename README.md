@@ -16,11 +16,14 @@ This project includes the source code accompanying the following paper:
 > **Abstract:** Reinforcement Learning (RL) based document summarisation  systems yield state-of-the-art performance in terms of ROUGE scores, because they directly use ROUGE as the rewards during training. However, summaries with high ROUGE scores often receive low human judgement. To find a better reward function that can guide RL to generate human-appealing summaries, we learn a reward function from human ratings on 2,500 summaries. Our reward function only takes the document and system summary as input. Hence, once trained, it can be used to train RL-based  summarisation systems without using any reference summaries. We show that our learned rewards have significantly higher correlation with human ratings than previous approaches. Human evaluation experiments show that, compared to the state-of-the-art supervised-learning systems and ROUGE-as-rewards RL summarisation systems, the RL systems using our learned rewards  during training generate summarieswith higher human ratings.  
 
 
+arXiv pre-print: https://arxiv.org/abs/1909.01214 
+
 Contact person: Yang Gao, yang.gao@rhul.ac.uk
 
 https://sites.google.com/site/yanggaoalex/home
 
 https://www.ukp.tu-darmstadt.de/
+
 
 
 Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions
