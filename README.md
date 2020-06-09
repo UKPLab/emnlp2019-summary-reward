@@ -49,9 +49,9 @@ This project includes the learned evaluation metric and the code for training it
 pip3 install -r requirements.txt
 ```
 
-* Download ROUGE-1.5.5.zip from the [link](https://drive.google.com/file/d/1eq4WD1rsCzAFhKmgI8cSeGqHEYYIFhGJ/view?usp=sharing), unzip the file and place the extracted folder in the rouge directory
+* Download ROUGE-RELEASE-1.5.5.zip from the [link](https://drive.google.com/file/d/1eq4WD1rsCzAFhKmgI8cSeGqHEYYIFhGJ/view?usp=sharing), unzip the file and place the extracted folder in the rouge directory
 ```bash
-mv RELEASE-1.5.5 scorer/auto_metrics/rouge
+mv RELEASE-RELEASE-1.5.5 scorer/auto_metrics/rouge
 ```
 
 ## Use the Learned Evaluation Function
